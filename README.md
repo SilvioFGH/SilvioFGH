@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Silvio! (@SilvioFGH)
-- 👀 I’m interested in making things with my hands, both digitally and IRL.
-- 🌱 I’m currently honing my skills with Django & React.
-- 💞️ I’m looking to collaborate on various projects to gain experience.
-- 📫 I am contactable @ SilvioFX on X, SilvioFLi on LinkedIn.
+- 👀 I’m interested in making things with my hands, both digitally and IRL
+- 🌱 I’m currently honing my skills with Udemy's The Web Developer Bootcamp 2024 (https://www.udemy.com/course/the-web-developer-bootcamp/)
+- 💞️ I’m looking to collaborate on various projects to gain experience
+- 📫 I am contactable on here, Facebook & LinkedIn

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Silvio! (@SilvioFGH)
 - 👀 I’m interested in making things with my hands, both digitally and IRL
-- 🌱 I’m currently honing my skills with Udemy's The Web Developer Bootcamp 2024
+- 🌱 I’m currently honing my skills with Python, Django applications/APIs with the Rest framework...
 - 💞️ I’m looking to collaborate on various projects to gain experience
-- 📫 I am contactable on here, Facebook & LinkedIn
+- 📫 I am contactable on here, LinkedIn and BlueSky
